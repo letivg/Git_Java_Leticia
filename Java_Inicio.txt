@@ -1,0 +1,3 @@
+Este el archivo Java_Inicio
+Es un archivo que estamos creando hoy Miercoles 9 de Abril
+Lo estamos haciendo para la clase de Entornos de Desarrollo
